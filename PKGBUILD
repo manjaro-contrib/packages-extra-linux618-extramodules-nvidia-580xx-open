@@ -7,8 +7,8 @@
 _linuxprefix=linux618
 
 pkgname="${_linuxprefix}-nvidia-580xx-open"
-pkgver=580.142
-pkgrel=11
+pkgver=580.159.03
+pkgrel=1
 pkgdesc="NVIDIA open kernel modules for ${_linuxprefix}"
 arch=('x86_64')
 url="https://www.nvidia.com/"
